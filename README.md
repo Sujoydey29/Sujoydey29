@@ -270,7 +270,7 @@ sujoy_dey:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.languages.svg" width="100%" alt="Language breakdown" />
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.terminal.svg" width="100%" alt="Terminal metrics" />
 </div>
 
 <br/>
@@ -287,11 +287,112 @@ sujoy_dey:
   <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
+<!-- ════════════════════════════════════════════════════════════════════════════
+     LANGUAGE MASTERY — custom-curated showcase (no external API dependency)
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` language mastery
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=600&pause=900&color=FBBF24&center=true&vCenter=true&width=700&height=40&lines=%24+wc+-l+--total+%2A%2F%2A.%7Bpy%2Cts%2Cjs%7D)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🐍 Python** — Primary weapon for AI/ML & agents
+![Python](https://progress-bar.xyz/95?title=Python&color=A78BFA&progress_color=A78BFA&width=400)
+
+**📘 TypeScript** — Type-safe full-stack
+![TypeScript](https://progress-bar.xyz/85?title=TypeScript&color=3B82F6&progress_color=3B82F6&width=400)
+
+**📒 Jupyter** — Where ideas first take shape
+![Jupyter](https://progress-bar.xyz/80?title=Jupyter&color=EC4899&progress_color=EC4899&width=400)
+
+**🌐 JavaScript** — Wherever the web demands
+![JavaScript](https://progress-bar.xyz/75?title=JavaScript&color=FBBF24&progress_color=FBBF24&width=400)
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ SQL** — Speaking fluent relational
+![SQL](https://progress-bar.xyz/80?title=SQL&color=22D3EE&progress_color=22D3EE&width=400)
+
+**⚡ Bash** — Glue that holds it all together
+![Bash](https://progress-bar.xyz/70?title=Bash&color=8B5CF6&progress_color=8B5CF6&width=400)
+
+**🦀 Go** — For when speed actually matters
+![Go](https://progress-bar.xyz/55?title=Go&color=06B6D4&progress_color=06B6D4&width=400)
+
+**⚙️ C/C++** — Foundational, occasional dives
+![C/C++](https://progress-bar.xyz/50?title=C%2FC%2B%2B&color=DC2626&progress_color=DC2626&width=400)
+
+</td>
+</tr>
+</table>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     ACHIEVEMENTS — hand-crafted, based on real work
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` achievements unlocked
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=600&pause=900&color=FBBF24&center=true&vCenter=true&width=700&height=40&lines=%24+ls+-la+./trophies%2F)](https://github.com/Sujoydey29)
+
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.achievements.svg" width="100%" alt="GitHub achievements" />
+
+![Agentic Pioneer](https://img.shields.io/badge/🤖_AGENTIC_PIONEER-6_multi--agent_systems_shipped-A78BFA?style=for-the-badge&labelColor=0D1117)
+![LLM Engineer](https://img.shields.io/badge/🧠_LLM_ENGINEER-production_deployments-EC4899?style=for-the-badge&labelColor=0D1117)
+![Builder at 72 Street AI](https://img.shields.io/badge/🚀_BUILDER-@72_Street_AI-3B82F6?style=for-the-badge&labelColor=0D1117)
+
+![Vision AI Expert](https://img.shields.io/badge/👁_VISION_AI-3_CV_pipelines_in_production-22D3EE?style=for-the-badge&labelColor=0D1117)
+![FinTech AI](https://img.shields.io/badge/💰_FINTECH_AI-financial_agents-FBBF24?style=for-the-badge&labelColor=0D1117)
+![Healthcare AI](https://img.shields.io/badge/🏥_HEALTHCARE_AI-clinical_control_tower-8B5CF6?style=for-the-badge&labelColor=0D1117)
+
+![Multi-Cloud Native](https://img.shields.io/badge/☁_MULTI--CLOUD-AWS_·_GCP_·_Azure-06B6D4?style=for-the-badge&labelColor=0D1117)
+![Full Stack](https://img.shields.io/badge/⚡_FULL_STACK-python_+_typescript-22C55E?style=for-the-badge&labelColor=0D1117)
+![IoT Hacker](https://img.shields.io/badge/🔌_IoT_HACKER-LLM_×_hardware-EF4444?style=for-the-badge&labelColor=0D1117)
+
+![Open Source](https://img.shields.io/badge/🌐_OPEN_SOURCE-27_public_repos-181717?style=for-the-badge&labelColor=0D1117)
+![Portfolio Maintainer](https://img.shields.io/badge/🎨_PORTFOLIO-sujoy--main--portfolio.netlify.app-00C7B7?style=for-the-badge&labelColor=0D1117)
+![Mumbai Tech](https://img.shields.io/badge/🇮🇳_MUMBAI_TECH-community_member-F97316?style=for-the-badge&labelColor=0D1117)
+
 </div>
+
+<br/>
+
+<details align="center">
+<summary><b>🏆 &nbsp;the receipts — what each badge actually means</b></summary>
+
+<br/>
+
+| Badge | Earned by |
+|---|---|
+| 🤖 Agentic Pioneer | Built 6 multi-agent systems: financial, clinical, parking, fridge, fan, document |
+| 🧠 LLM Engineer | Production LLM deployments using Claude, GPT-4, and open weights |
+| 🚀 Builder @ 72 Street AI | Currently shipping AI products full-time |
+| 👁 Vision AI Expert | CV pipelines in parking, refrigerator inventory, and document layout |
+| 💰 FinTech AI | Financial Agentic Intelligence System — autonomous market signal analysis |
+| 🏥 Healthcare AI | Agentic Clinical Control Tower — patient workflow orchestration |
+| ☁ Multi-Cloud Native | Deployed across AWS, GCP, and Azure depending on the constraint |
+| ⚡ Full Stack | Python backend + TypeScript/React frontend across projects |
+| 🔌 IoT Hacker | LLM-controlled physical devices (Smart Fan Agent) |
+| 🌐 Open Source | 27 public repos, growing weekly |
+| 🎨 Portfolio Maintainer | Live portfolio site, regularly updated |
+| 🇮🇳 Mumbai Tech | Active in the Mumbai AI/dev community |
+
+</details>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
      STAR DIVIDER

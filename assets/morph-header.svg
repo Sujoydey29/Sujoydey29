@@ -2,97 +2,194 @@
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A78BFA">
-        <animate attributeName="stop-color" values="#A78BFA;#EC4899;#3B82F6;#8B5CF6;#A78BFA" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#A78BFA;#EC4899;#3B82F6;#22D3EE;#8B5CF6;#A78BFA" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%" stop-color="#EC4899">
-        <animate attributeName="stop-color" values="#EC4899;#3B82F6;#8B5CF6;#A78BFA;#EC4899" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#EC4899;#3B82F6;#22D3EE;#8B5CF6;#A78BFA;#EC4899" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#3B82F6">
-        <animate attributeName="stop-color" values="#3B82F6;#8B5CF6;#A78BFA;#EC4899;#3B82F6" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#3B82F6;#22D3EE;#8B5CF6;#A78BFA;#EC4899;#3B82F6" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="g2" x1="100%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#22D3EE">
-        <animate attributeName="stop-color" values="#22D3EE;#A78BFA;#EC4899;#22D3EE" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#22D3EE;#A78BFA;#EC4899;#FBBF24;#22D3EE" dur="7s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#8B5CF6">
-        <animate attributeName="stop-color" values="#8B5CF6;#EC4899;#22D3EE;#8B5CF6" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#8B5CF6;#EC4899;#FBBF24;#22D3EE;#8B5CF6" dur="7s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+    <radialGradient id="g3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="softblur"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="softblur"><feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="textglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <rect width="1200" height="320" fill="#0D1117"/>
 
-  <g opacity="0.18">
-    <line x1="0" y1="40" x2="1200" y2="40" stroke="#A78BFA" stroke-width="1" stroke-dasharray="4 8"/>
-    <line x1="0" y1="280" x2="1200" y2="280" stroke="#EC4899" stroke-width="1" stroke-dasharray="4 8"/>
+  <!-- Scanlines -->
+  <g opacity="0.08">
+    <line x1="0" y1="30"  x2="1200" y2="30"  stroke="#A78BFA" stroke-width="0.5"/>
+    <line x1="0" y1="80"  x2="1200" y2="80"  stroke="#EC4899" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="1200" y2="160" stroke="#22D3EE" stroke-width="0.5"/>
+    <line x1="0" y1="240" x2="1200" y2="240" stroke="#EC4899" stroke-width="0.5"/>
+    <line x1="0" y1="290" x2="1200" y2="290" stroke="#A78BFA" stroke-width="0.5"/>
   </g>
 
+  <!-- Morphing wave path (bottom) -->
   <path fill="url(#g1)" opacity="0.55" filter="url(#softblur)">
     <animate attributeName="d"
              values="
                M 100,160 Q 300,40 500,160 T 900,160 Q 1050,260 1180,160 L 1180,320 L 100,320 Z;
                M 100,160 Q 300,260 500,160 T 900,160 Q 1050,40 1180,160 L 1180,320 L 100,320 Z;
                M 100,160 Q 300,100 500,220 T 900,100 Q 1050,200 1180,160 L 1180,320 L 100,320 Z;
+               M 100,160 Q 300,180 500,80 T 900,220 Q 1050,80 1180,160 L 1180,320 L 100,320 Z;
                M 100,160 Q 300,40 500,160 T 900,160 Q 1050,260 1180,160 L 1180,320 L 100,320 Z
+             "
+             dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Morphing wave path (top, inverted) -->
+  <path fill="url(#g2)" opacity="0.35" filter="url(#softblur)">
+    <animate attributeName="d"
+             values="
+               M 100,160 Q 300,260 500,160 T 900,160 Q 1050,60 1180,160 L 1180,0 L 100,0 Z;
+               M 100,160 Q 300,60 500,160 T 900,160 Q 1050,260 1180,160 L 1180,0 L 100,0 Z;
+               M 100,160 Q 300,200 500,80 T 900,220 Q 1050,100 1180,160 L 1180,0 L 100,0 Z;
+               M 100,160 Q 300,260 500,160 T 900,160 Q 1050,60 1180,160 L 1180,0 L 100,0 Z
              "
              dur="9s" repeatCount="indefinite"/>
   </path>
 
-  <ellipse cx="240" cy="160" rx="200" ry="90" fill="url(#g2)" opacity="0.35" filter="url(#softblur)">
-    <animate attributeName="rx" values="200;260;180;220;200" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="ry" values="90;70;110;80;90" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="240;280;220;260;240" dur="8s" repeatCount="indefinite"/>
+  <!-- Left morphing blob -->
+  <ellipse cx="240" cy="160" rx="220" ry="100" fill="url(#g2)" opacity="0.40" filter="url(#softblur)">
+    <animate attributeName="rx" values="220;280;180;240;220" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="100;70;120;90;100" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="240;300;180;260;240" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="160;140;180;150;160" dur="5.5s" repeatCount="indefinite"/>
   </ellipse>
 
-  <ellipse cx="960" cy="160" rx="180" ry="80" fill="url(#g1)" opacity="0.40" filter="url(#softblur)">
-    <animate attributeName="rx" values="180;220;160;200;180" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="ry" values="80;100;70;90;80" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="960;920;980;940;960" dur="9s" repeatCount="indefinite"/>
+  <!-- Right morphing blob -->
+  <ellipse cx="960" cy="160" rx="200" ry="90" fill="url(#g1)" opacity="0.45" filter="url(#softblur)">
+    <animate attributeName="rx" values="200;250;160;220;200" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="90;110;70;100;90" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="960;900;1020;940;960" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="160;180;140;170;160" dur="6.5s" repeatCount="indefinite"/>
   </ellipse>
 
+  <!-- Center floating orb -->
+  <circle cx="600" cy="160" r="40" fill="url(#g3)" opacity="0.4">
+    <animate attributeName="r" values="40;60;40;50;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="160;145;160;175;160" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="600;620;580;610;600" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
   <text x="600" y="155" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="86" font-weight="900" fill="#FFFFFF" text-anchor="middle" filter="url(#glow)">
     Sujoy Dey
-  </text>
-  <text x="600" y="205" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="22" font-weight="600" fill="#A78BFA" text-anchor="middle">
-    AI Agent Architect · Builder at @72 Street AI
+    <animate attributeName="font-size" values="86;90;86;88;86" dur="4s" repeatCount="indefinite"/>
   </text>
 
+  <!-- Subtitle -->
+  <text x="600" y="205" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="22" font-weight="600" fill="#A78BFA" text-anchor="middle" filter="url(#textglow)">
+    AI Agent Architect · Builder at @72 Street AI
+    <animate attributeName="fill" values="#A78BFA;#EC4899;#22D3EE;#A78BFA" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Floating particles (corners) -->
   <g>
-    <circle cx="120" cy="70" r="2.5" fill="#EC4899">
+    <circle cx="80" cy="40" r="2.5" fill="#EC4899">
       <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;50;40" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1080" cy="60" r="2.5" fill="#22D3EE">
+    <circle cx="1120" cy="50" r="2.5" fill="#22D3EE">
       <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="50;40;50" dur="3.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="180" cy="260" r="2.5" fill="#A78BFA">
+    <circle cx="180" cy="280" r="2.5" fill="#A78BFA">
       <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="180;200;180" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1020" cy="250" r="2.5" fill="#EC4899">
+    <circle cx="1020" cy="270" r="2.5" fill="#EC4899">
       <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="1020;1000;1020" dur="4.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="60" cy="160" r="2" fill="#8B5CF6">
+    <circle cx="50"  cy="160" r="2" fill="#8B5CF6">
       <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1140" cy="160" r="2" fill="#3B82F6">
+    <circle cx="1150" cy="160" r="2" fill="#3B82F6">
       <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="60" r="1.5" fill="#FBBF24">
+      <animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="50" r="1.5" fill="#22D3EE">
+      <animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="270" r="1.5" fill="#EC4899">
+      <animate attributeName="opacity" values="0;1;0" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="280" r="1.5" fill="#A78BFA">
+      <animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <g transform="translate(80,140)" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#22D3EE" opacity="0.6">
-    <text>&lt;/&gt;</text>
-    <animateTransform attributeName="transform" type="translate" values="80,140;80,150;80,140" dur="3s" repeatCount="indefinite"/>
-  </g>
-  <g transform="translate(1080,180)" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#EC4899" opacity="0.6">
-    <text>{ }</text>
-    <animateTransform attributeName="transform" type="translate" values="1080,180;1080,170;1080,180" dur="3.5s" repeatCount="indefinite"/>
+  <!-- Traveling particles (cross-screen) -->
+  <circle r="3" fill="#22D3EE" opacity="0.7">
+    <animateMotion path="M 0,80 Q 600,40 1200,90" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#EC4899" opacity="0.7">
+    <animateMotion path="M 1200,250 Q 600,290 0,240" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#A78BFA" opacity="0.7">
+    <animateMotion path="M 0,260 Q 600,200 1200,270" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating code symbols -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" opacity="0.7">
+    <text fill="#22D3EE" x="80" y="140">
+      &lt;/&gt;
+      <animate attributeName="y" values="140;150;140;145;140" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#EC4899" x="1080" y="190">
+      { }
+      <animate attributeName="y" values="190;180;190;185;190" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#A78BFA" x="150" y="220">
+      =&gt;
+      <animate attributeName="y" values="220;210;220;215;220" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#FBBF24" x="1040" y="120">
+      ()
+      <animate attributeName="y" values="120;130;120;125;120" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#22D3EE" x="350" y="60" font-size="12">
+      #!/
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#EC4899" x="820" y="280" font-size="12">
+      ;;
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </text>
   </g>
 </svg>
