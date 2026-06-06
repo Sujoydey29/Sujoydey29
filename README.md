@@ -242,10 +242,10 @@ sujoy_dey:
 <div align="center">
 
 <a href="https://github.com/Sujoydey29">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujoydey29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true&card_width=460" height="195" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.svg" width="48%" alt="GitHub metrics" />
 </a>
 <a href="https://github.com/Sujoydey29">
-  <img src="https://streak-stats.demolab.com?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6&stroke=A78BFA" height="195" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6&stroke=A78BFA" width="48%" alt="Streak stats" />
 </a>
 
 </div>
@@ -253,11 +253,7 @@ sujoy_dey:
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/Sujoydey29">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoydey29&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&card_width=460" height="220" alt="Top languages" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.languages.svg" width="100%" alt="Language breakdown" />
 </div>
 
 <br/>
@@ -269,7 +265,7 @@ sujoy_dey:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujoydey29&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.achievements.svg" width="100%" alt="GitHub achievements" />
 </div>
 
 <br/>
