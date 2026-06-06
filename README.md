@@ -1,163 +1,383 @@
+<!-- ════════════════════════════════════════════════════════════════════════════
+     HEADER WAVE — animated venom gradient capsule
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Sujoydey29">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Sujoy%20Dey&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=AI%20Agent%20Architect%20%E2%80%A2%20Builder%20at%20%4072%20Street%20AI&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
+</a>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     MATRIX TYPING — fake terminal session
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:ec4899&height=220&section=header&text=Sujoy%20Dey&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20Builder&descSize=20&descAlignY=62&animation=fadeIn" alt="Sujoy Dey - AI/ML Engineer" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=%24+whoami+--verbose;%E2%9D%AF+human-in-the-loop+for+a+swarm+of+agents;%E2%9D%AF+i+ship+systems+that+think%2C+plan%2C+and+act;%24+cat+./obsessions.md;%E2%9D%AF+LLM+orchestration+%E2%80%A2+RAG+at+scale+%E2%80%A2+autonomous+agents;%24+sudo+make+the-future)](https://github.com/Sujoydey29)
 
 </div>
 
-<h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sujoy Dey
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
-</h1>
+<!-- ════════════════════════════════════════════════════════════════════════════
+     STATUS PILLS — quick metadata
+     ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=80&lines=AI%2FML+Engineer+%7C+Agentic+Systems+Builder;Python+%7C+TypeScript+%7C+LLMs+%7C+RAG+%7C+Multi-Agent;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
+![Profile views](https://komarev.com/ghpvc/?username=Sujoydey29&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Sujoydey29?style=for-the-badge&color=ec4899&labelColor=000&label=FOLLOWERS)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20AGENTS-1e3a8a?style=for-the-badge&labelColor=000)
+![Location](https://img.shields.io/badge/MUMBAI-%F0%9F%87%AE%F0%9F%87%B3-22c55e?style=for-the-badge&labelColor=000)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     ABOUT — YAML self-introduction with side GIF
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` about
+
+<table align="center" border="0">
+<tr>
+<td width="58%" valign="top">
+
+```yaml
+sujoy_dey:
+  role:       "AI/ML Engineer"
+  company:    "72 Street AI"
+  location:   "Mumbai, India 🇮🇳"
+  pronouns:   "he/him"
+
+  building:
+    - "agentic intelligence systems"
+    - "LLM-powered automations"
+    - "multi-agent orchestration"
+    - "tooling that gets out of your way"
+
+  obsessed_with:
+    - "frontier reasoning models"
+    - "production-grade RAG"
+    - "AI ↔ human interaction design"
+    - "the unreasonable effectiveness of evals"
+
+  philosophy: >
+    "the best interface is the one that
+     understands you before you finish typing."
+
+  current_stack:
+    - python
+    - typescript
+    - "claude + gpt-4 + open weights"
+    - langgraph
+    - fastapi
+    - postgres + pgvector
+
+  fuel:    [chai ☕, curiosity 🔭, design 🎨]
+  contact: "sujoy.dey@72street.ai"
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://media1.tenor.com/m/Ks2yiBJtsUUAAAAd/computing.gif" width="100%" />
+
+<br/><br/>
+
+<i>orchestrating agents →<br/>shipping products</i>
+
+<br/><br/>
+
+<a href="https://sujoy-main-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/🔮_visit_my_portfolio-A78BFA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     DIVIDER — sparkles
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     STACK — skillicons grid (distinct visual language vs shield-badge dump)
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` stack
+
+#### `~/languages`
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,go,bash,sql,c,cpp&theme=dark)](https://skillicons.dev)
+
+#### `~/ai-and-ml`
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,r&theme=dark)](https://skillicons.dev)
+
+> Also living in: **OpenAI · Anthropic Claude · LangChain · LangGraph · LlamaIndex · Hugging Face · Pinecone · ChromaDB · Weaviate · vLLM · Ollama**
+
+#### `~/backend`
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,graphql,redis&theme=dark)](https://skillicons.dev)
+
+#### `~/frontend`
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma,html,css&theme=dark)](https://skillicons.dev)
+
+#### `~/data`
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=dark)](https://skillicons.dev)
+
+#### `~/cloud-and-devops`
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,netlify&theme=dark)](https://skillicons.dev)
+
+#### `~/tools`
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,vim,postman,notion,obsidian&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     DIVIDER — animated line
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     SHIPPING — featured projects, treated like product cards
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` shipping
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Financial Agentic Intelligence](https://github.com/Sujoydey29/Financial-Agentic-Intelligence-System)
+> A multi-agent system that reads, reasons over, and reports on financial signals — autonomously.
+
+`Python` · `LangGraph` · `LLM` · `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Agentic Clinical Control Tower](https://github.com/Sujoydey29/Agentic-Clinical-Control-Tower-)
+> Orchestration layer for clinical workflows — agents that triage, route, and act on patient data.
+
+`TypeScript` · `Next.js` · `Agents` · `Healthcare AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🅿️ [AI-Powered Parking System](https://github.com/Sujoydey29/AI-Powered-Parking-System)
+> Computer vision meets reasoning — auto-detects, allocates, and bills parking in real time.
+
+`Python` · `CV` · `Edge AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧊 [Refrigerator Inventory & Freshness AI](https://github.com/Sujoydey29/AI-Powered-Refrigerator-Inventory-and-Freshness-Monitoring-System)
+> Your fridge, but it knows what's inside and when it's about to die.
+
+`Python` · `Vision` · `IoT`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💨 [Smart Fan Agent](https://github.com/Sujoydey29/Smart-Fan-Agent)
+> An LLM that controls a fan. Sounds silly until you realize it's the future of ambient computing.
+
+`Jupyter` · `IoT` · `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Document Layout Analysis](https://github.com/Sujoydey29/Document-Layout-Analysis)
+> Pixel-accurate layout parsing — the foundation for any serious doc AI pipeline.
+
+`Python` · `Vision` · `OCR`
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     DIVIDER — wave
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     ACTIVITY — 3D contributions + stats + activity graph
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` activity in the matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujoydey29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoydey29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" width="100%" />
+</td>
+<td width="50%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sujoydey29&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="100%" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoydey29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujoydey29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     DIVIDER — pulse line
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     BEHIND THE KEYBOARD — collapsible details
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` behind the keyboard
+
+<details>
+<summary><b>📚 &nbsp;what i'm reading right now</b></summary>
+
+<br/>
+
+- **Designing Machine Learning Systems** — Chip Huyen
+- **Building LLM-Powered Applications** — Anthropic & community guides
+- Daily diet: arXiv AI/ML papers · [Latent Space](https://www.latent.space/) · Anthropic research · Simon Willison's blog
+- I lurk on /r/LocalLLaMA and follow agent-builders on X
+
+</details>
+
+<details>
+<summary><b>🛠️ &nbsp;what i'm building right now</b></summary>
+
+<br/>
+
+- A **financial agentic intelligence** system (live, in production)
+- A **clinical control tower** powered by LangGraph
+- **Multi-agent IoT** experiments — fridge, fan, parking
+- An always-on personal **second-brain assistant** with long-term memory
+
+</details>
+
+<details>
+<summary><b>🤝 &nbsp;open to collaborate on</b></summary>
+
+<br/>
+
+- Production RAG systems & vector search at scale
+- Multi-agent orchestration & evals
+- AI-native product UX
+- LLM observability tooling
+
+</details>
+
+<details>
+<summary><b>🎯 &nbsp;non-obvious facts</b></summary>
+
+<br/>
+
+- I think in YAML
+- The fastest way to my heart is a clean API spec
+- I once shipped a model with `import this` in the production module — it's still there
+- My favorite debugging tool is a walk
+
+</details>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     CONNECT — large pill buttons
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thesujoydey/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42" />
+</a>
+&nbsp;
+<a href="https://sujoy-main-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" height="42" />
+</a>
+&nbsp;
+<a href="mailto:sujoy.dey@72street.ai">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="42" />
+</a>
+&nbsp;
+<a href="https://github.com/Sujoydey29">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="42" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- Snake animation of the contribution graph. 
-     Requires a GitHub Action (.github/workflows/snake.yml) — see SETUP_INSTRUCTIONS.md -->
+<!-- ════════════════════════════════════════════════════════════════════════════
+     FOOTER WAVE
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+
+<i>"if you can't explain it simply,<br/>build an agent that does."</i>
 
 <br/>
 
-## 💫 About Me:
-
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/programmer.gif"/>
-
-- 🧑‍💻 **AI/ML Engineer** building agentic intelligence systems
-- 🏢 Working at **72 Street AI**
-- 🌏 Based in **Mumbai, India**
-- 🧠 Currently exploring **multi-agent orchestration**, **LLMOps**, and **RAG at scale**
-- 🚀 Shipped: Financial Agentic Intelligence, Clinical Control Tower, AI-Powered Parking, Smart Fan Agent
-- 🎯 Goal: build AI products that quietly do hard work for people
-- ☕ Fueled by chai and curiosity
-- 📫 Reach me at **sujoy.dey@72street.ai**
-
-<br clear="right"/>
-
-## 🌐 Socials:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thesujoydey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sujoy-main-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:sujoy.dey@72street.ai">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sujoydey29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-## 💻 Tech Stack:
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### AI / ML / Agents
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chroma&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-## 📊 GitHub Stats:
-
-![](https://komarev.com/ghpvc/?username=Sujoydey29&style=flat-square&color=blue&label=Profile+Views)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sujoydey29&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoydey29&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoydey29&theme=radical&hide_border=true" width="60%" />
-
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujoydey29&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sujoydey29&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
----
-
-## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/sujoydey29" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200" />
-</a>
-
----
-
-<div align="center">
-
-### ⭐ From [Sujoydey29](https://github.com/Sujoydey29) — thanks for stopping by!
+`$ echo "thanks for stopping by ⌐■_■" >> ~/visitors.log`
 
 </div>
