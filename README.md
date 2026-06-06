@@ -29,8 +29,9 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Sujoydey29&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Sujoydey29&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&abbreviated=true)
 ![Followers](https://img.shields.io/github/followers/Sujoydey29?style=for-the-badge&color=ec4899&labelColor=000&label=FOLLOWERS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sujoydey29.Sujoydey29&left_color=000&right_color=22D3EE&left_text=VISITORS)
 ![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20AGENTS-1e3a8a?style=for-the-badge&labelColor=000)
 ![Location](https://img.shields.io/badge/MUMBAI-%F0%9F%87%AE%F0%9F%87%B3-22c55e?style=for-the-badge&labelColor=000)
 
@@ -54,8 +55,7 @@
 
 ```yaml
 sujoy_dey:
-  role:       "AI/ML Engineer"
-  company:    "72 Street AI"
+  role:       "AI/ML Engineer · Independent Builder"
   location:   "Mumbai, India 🇮🇳"
   pronouns:   "he/him"
 
@@ -84,7 +84,7 @@ sujoy_dey:
     - postgres + pgvector
 
   fuel:    [chai ☕, curiosity 🔭, design 🎨]
-  contact: "sujoy.dey@72street.ai"
+  reach:   "linkedin.com/in/thesujoydey"
 ```
 
 </td>
@@ -354,7 +354,7 @@ sujoy_dey:
 
 ![Agentic Pioneer](https://img.shields.io/badge/🤖_AGENTIC_PIONEER-6_multi--agent_systems_shipped-A78BFA?style=for-the-badge&labelColor=0D1117)
 ![LLM Engineer](https://img.shields.io/badge/🧠_LLM_ENGINEER-production_deployments-EC4899?style=for-the-badge&labelColor=0D1117)
-![Builder at 72 Street AI](https://img.shields.io/badge/🚀_BUILDER-@72_Street_AI-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Independent Builder](https://img.shields.io/badge/🚀_INDEPENDENT_BUILDER-shipping_AI_products-3B82F6?style=for-the-badge&labelColor=0D1117)
 
 ![Vision AI Expert](https://img.shields.io/badge/👁_VISION_AI-3_CV_pipelines_in_production-22D3EE?style=for-the-badge&labelColor=0D1117)
 ![FinTech AI](https://img.shields.io/badge/💰_FINTECH_AI-financial_agents-FBBF24?style=for-the-badge&labelColor=0D1117)
@@ -381,7 +381,7 @@ sujoy_dey:
 |---|---|
 | 🤖 Agentic Pioneer | Built 6 multi-agent systems: financial, clinical, parking, fridge, fan, document |
 | 🧠 LLM Engineer | Production LLM deployments using Claude, GPT-4, and open weights |
-| 🚀 Builder @ 72 Street AI | Currently shipping AI products full-time |
+| 🚀 Independent Builder | Shipping AI products on my own terms |
 | 👁 Vision AI Expert | CV pipelines in parking, refrigerator inventory, and document layout |
 | 💰 FinTech AI | Financial Agentic Intelligence System — autonomous market signal analysis |
 | 🏥 Healthcare AI | Agentic Clinical Control Tower — patient workflow orchestration |
@@ -399,6 +399,46 @@ sujoy_dey:
      ════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     TEXT EFFECTS — custom animated SVG with Fire/Smoke/Wind/Snow particles
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` words that move
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&height=30&lines=an+animated+narrative+%E2%80%94+each+word+becomes+the+thing+it+says)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/assets/text-effects.svg" width="100%" alt="Animated text effects" />
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     ORGANIC LOADERS — custom animated SVG with 8 morphing patterns
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## `╭─` organic loaders
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=30&lines=eight+motion+studies+%E2%80%94+morph%2C+pulse%2C+split%2C+drift%2C+orbit%2C+ripple%2C+merge%2C+scatter)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/assets/loaders.svg" width="100%" alt="Organic loaders showcase" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
      BEHIND THE KEYBOARD — collapsibles + animated quote
@@ -484,10 +524,6 @@ sujoy_dey:
 &nbsp;
 <a href="https://sujoy-main-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" height="48" />
-</a>
-&nbsp;
-<a href="mailto:sujoy.dey@72street.ai">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="48" />
 </a>
 &nbsp;
 <a href="https://github.com/Sujoydey29">

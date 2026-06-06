@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="fire" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="50%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F3F4F6"/>
+      <stop offset="30%" stop-color="#9CA3AF"/>
+      <stop offset="60%" stop-color="#E5E7EB"/>
+      <stop offset="100%" stop-color="#4B5563"/>
+    </linearGradient>
+    <linearGradient id="wind" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A5F3FC"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="snow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#BFDBFE"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="blur-soft"><feGaussianBlur stdDeviation="1"/></filter>
+    <filter id="textglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="540" fill="#0A0A0F"/>
+
+  <!-- Decorative scanlines -->
+  <g opacity="0.08" stroke-dasharray="2 6">
+    <line x1="0" y1="40"  x2="1200" y2="40"  stroke="#A78BFA"/>
+    <line x1="0" y1="500" x2="1200" y2="500" stroke="#EC4899"/>
+  </g>
+
+  <!-- LINE 1: "i breathe Fire into the cold code," -->
+  <g font-family="Georgia, 'Iowan Old Style', serif" font-size="46" font-weight="500">
+    <text x="60"  y="110" fill="#E5E7EB">i breathe</text>
+    <text x="310" y="110" fill="url(#fire)" font-style="italic" font-weight="700" filter="url(#textglow)">Fire</text>
+    <!-- Fire particles rising -->
+    <g>
+      <circle cx="320" cy="115" r="3" fill="#F97316" filter="url(#blur-soft)">
+        <animate attributeName="cy" values="115;55;115" dur="2.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="2.0s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="4;1;4" dur="2.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="345" cy="115" r="2" fill="#FBBF24" filter="url(#blur-soft)">
+        <animate attributeName="cy" values="115;50;115" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="370" cy="120" r="3" fill="#DC2626" filter="url(#blur-soft)">
+        <animate attributeName="cy" values="120;60;120" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="395" cy="118" r="2" fill="#F97316" filter="url(#blur-soft)">
+        <animate attributeName="cy" values="118;65;118" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="332" cy="125" r="2.5" fill="#FBBF24" filter="url(#blur-soft)">
+        <animate attributeName="cy" values="125;70;125" dur="2.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="440" y="110" fill="#E5E7EB">into the cold</text>
+    <text x="760" y="110" fill="#22D3EE" font-style="italic" font-weight="600">code,</text>
+  </g>
+
+  <!-- LINE 2: "Smoke curls around brittle Logic" -->
+  <g font-family="Georgia, 'Iowan Old Style', serif" font-size="46" font-weight="500">
+    <text x="60" y="220" fill="#9CA3AF" font-style="italic" font-weight="700" opacity="0.9">Smoke</text>
+    <!-- Smoke particles swirling around the word -->
+    <g>
+      <circle cx="80"  cy="210" r="8" fill="#6B7280" opacity="0.45" filter="url(#blur)">
+        <animate attributeName="cx" values="80;125;95;80" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="210;180;160;210" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.45;0;0.45" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="135" cy="215" r="6" fill="#9CA3AF" opacity="0.40" filter="url(#blur)">
+        <animate attributeName="cy" values="215;180;160;215" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0;0.4" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="105" cy="225" r="9" fill="#6B7280" opacity="0.30" filter="url(#blur)">
+        <animate attributeName="cy" values="225;180;155;225" dur="4.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0;0.3" dur="4.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="165" cy="220" r="5" fill="#9CA3AF" opacity="0.35" filter="url(#blur)">
+        <animate attributeName="cy" values="220;175;220" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0;0.35" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="220" y="220" fill="#E5E7EB">curls around brittle</text>
+    <text x="710" y="220" fill="#A78BFA" font-weight="700" filter="url(#textglow)">Logic.</text>
+  </g>
+
+  <!-- LINE 3: "Metal pipelines carry the Wind across silent" -->
+  <g font-family="Georgia, 'Iowan Old Style', serif" font-size="46" font-weight="500">
+    <text x="60" y="330" fill="url(#metal)" font-weight="800" filter="url(#textglow)">Metal</text>
+    <text x="220" y="330" fill="#E5E7EB">pipelines carry the</text>
+    <text x="700" y="330" fill="url(#wind)" font-style="italic" font-weight="700">Wind</text>
+    <!-- Wind motion lines -->
+    <g stroke="url(#wind)" stroke-width="2" fill="none">
+      <line x1="820" y1="312" x2="900" y2="312" opacity="0.7">
+        <animate attributeName="x1" values="820;860;820" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="x2" values="900;940;900" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0.2;0.7" dur="1.5s" repeatCount="indefinite"/>
+      </line>
+      <line x1="825" y1="330" x2="910" y2="330" opacity="0.8">
+        <animate attributeName="x1" values="825;865;825" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="x2" values="910;950;910" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="820" y1="348" x2="895" y2="348" opacity="0.6">
+        <animate attributeName="x1" values="820;860;820" dur="1.3s" repeatCount="indefinite"/>
+        <animate attributeName="x2" values="895;935;895" dur="1.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.6;0.2;0.6" dur="1.3s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <text x="970" y="330" fill="#E5E7EB">silent</text>
+  </g>
+
+  <!-- LINE 4: "agents' plains where Snow falls forever." -->
+  <g font-family="Georgia, 'Iowan Old Style', serif" font-size="46" font-weight="500">
+    <text x="60"  y="440" fill="#EC4899" font-weight="700" filter="url(#textglow)">agents'</text>
+    <text x="240" y="440" fill="#E5E7EB">plains, where</text>
+    <text x="590" y="440" fill="url(#snow)" font-style="italic" font-weight="700">Snow</text>
+    <!-- Snow falling particles -->
+    <g>
+      <circle cx="600" cy="420" r="2.5" fill="#FFFFFF" opacity="0.95">
+        <animate attributeName="cy" values="420;500;420" dur="3.0s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="600;608;600" dur="3.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="630" cy="425" r="1.8" fill="#FFFFFF" opacity="0.85">
+        <animate attributeName="cy" values="425;505;425" dur="3.4s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="630;622;630" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="660" cy="420" r="2" fill="#FFFFFF" opacity="0.90">
+        <animate attributeName="cy" values="420;510;420" dur="2.7s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="660;670;660" dur="2.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="615" cy="430" r="1.5" fill="#FFFFFF" opacity="0.75">
+        <animate attributeName="cy" values="430;508;430" dur="3.1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="645" cy="415" r="2" fill="#FFFFFF" opacity="0.90">
+        <animate attributeName="cy" values="415;510;415" dur="2.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="600" cy="435" r="1.2" fill="#BFDBFE" opacity="0.70">
+        <animate attributeName="cy" values="435;510;435" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="675" cy="430" r="1.5" fill="#FFFFFF" opacity="0.80">
+        <animate attributeName="cy" values="430;510;430" dur="2.9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="720" y="440" fill="#E5E7EB" font-style="italic">falls forever.</text>
+  </g>
+</svg>

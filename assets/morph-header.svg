@@ -107,7 +107,7 @@
 
   <!-- Subtitle -->
   <text x="600" y="205" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="22" font-weight="600" fill="#A78BFA" text-anchor="middle" filter="url(#textglow)">
-    AI Agent Architect · Builder at @72 Street AI
+    AI Agent Architect · Building Autonomous Systems
     <animate attributeName="fill" values="#A78BFA;#EC4899;#22D3EE;#A78BFA" dur="6s" repeatCount="indefinite"/>
   </text>
 
