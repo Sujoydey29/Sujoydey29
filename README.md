@@ -401,46 +401,6 @@ sujoy_dey:
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     TEXT EFFECTS — custom animated SVG with Fire/Smoke/Wind/Snow particles
-     ════════════════════════════════════════════════════════════════════════════ -->
-
-## `╭─` words that move
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&height=30&lines=an+animated+narrative+%E2%80%94+each+word+becomes+the+thing+it+says)](https://github.com/Sujoydey29)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/assets/text-effects.svg" width="100%" alt="Animated text effects" />
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════════════
-     ORGANIC LOADERS — custom animated SVG with 8 morphing patterns
-     ════════════════════════════════════════════════════════════════════════════ -->
-
-## `╭─` organic loaders
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=30&lines=eight+motion+studies+%E2%80%94+morph%2C+pulse%2C+split%2C+drift%2C+orbit%2C+ripple%2C+merge%2C+scatter)](https://github.com/Sujoydey29)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/assets/loaders.svg" width="100%" alt="Organic loaders showcase" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
-
-<!-- ════════════════════════════════════════════════════════════════════════════
      BEHIND THE KEYBOARD — collapsibles + animated quote
      ════════════════════════════════════════════════════════════════════════════ -->
 
