@@ -239,35 +239,37 @@ sujoy_dey:
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujoydey29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoydey29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sujoydey29&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="100%" />
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoydey29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="100%" />
+
+<a href="https://github.com/Sujoydey29">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujoydey29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true&card_width=460" height="195" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Sujoydey29">
+  <img src="https://streak-stats.demolab.com?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6&stroke=A78BFA" height="195" alt="Streak stats" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujoydey29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
+
+<a href="https://github.com/Sujoydey29">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoydey29&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&card_width=460" height="220" alt="Top languages" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoydey29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="100%" alt="Contribution activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujoydey29&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub trophies" />
 </div>
 
 <br/>
