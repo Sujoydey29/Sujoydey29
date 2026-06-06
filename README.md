@@ -1,10 +1,17 @@
 <!-- ════════════════════════════════════════════════════════════════════════════
-     HEADER WAVE — animated venom gradient capsule
+     MORPHING HEADER — perpetually animated, color-shifting blobs + glow text
+     (custom SVG with <animate> tags, served from our own repo)
      ════════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Sujoydey29">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Sujoy%20Dey&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=AI%20Agent%20Architect%20%E2%80%A2%20Builder%20at%20%4072%20Street%20AI&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/assets/morph-header.svg" width="100%" alt="Sujoy Dey — animated morphing header" />
 </a>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     LAYERED BANNER — second animated capsule below morphing SVG
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=80&section=header&animation=twinkling" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
      MATRIX TYPING — fake terminal session
@@ -17,7 +24,7 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     STATUS PILLS — quick metadata
+     STATUS PILLS
      ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -29,10 +36,14 @@
 
 </div>
 
-<br/>
+<!-- ════════════════════════════════════════════════════════════════════════════
+     RAINBOW SCROLL DIVIDER
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     ABOUT — YAML self-introduction with side GIF
+     ABOUT — YAML + dancing astronaut GIF + animated subtitle
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` about
@@ -83,7 +94,7 @@ sujoy_dey:
 
 <br/><br/>
 
-<i>orchestrating agents →<br/>shipping products</i>
+<i>where humans end<br/>and agents begin</i>
 
 <br/><br/>
 
@@ -95,23 +106,31 @@ sujoy_dey:
 </tr>
 </table>
 
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════
-     DIVIDER — sparkles
-     ════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=500&pause=1200&color=EC4899&center=true&vCenter=true&width=800&height=40&lines=%2F%2F+full-time+builder%2C+part-time+philosopher;%2F%2F+i+turn+coffee+into+autonomous+agents)](https://github.com/Sujoydey29)
+
 </div>
 
-<br/>
+<!-- ════════════════════════════════════════════════════════════════════════════
+     SPARKLE DIVIDER
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     STACK — skillicons grid (distinct visual language vs shield-badge dump)
+     STACK — skillicons grouped by terminal path + transition typing
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` stack
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=600&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=%24+compiler+--load+./skills;%E2%9C%93+stack+loaded+%E2%80%94+ready+to+ship)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
 
 #### `~/languages`
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,go,bash,sql,c,cpp&theme=dark)](https://skillicons.dev)
@@ -136,26 +155,27 @@ sujoy_dey:
 #### `~/tools`
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,vim,postman,notion,obsidian&theme=dark)](https://skillicons.dev)
 
-<br/>
-
 <!-- ════════════════════════════════════════════════════════════════════════════
-     DIVIDER — animated line
+     WAVE DIVIDER
      ════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     SHIPPING — featured projects, treated like product cards
+     SHIPPING — balanced 3×2 project grid, explicit widths to prevent collapse
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` shipping
 
-<table>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=600&pause=1000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=six+agents%2C+six+missions%2C+one+orchestrator)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -174,7 +194,6 @@ sujoy_dey:
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -193,7 +212,6 @@ sujoy_dey:
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -212,26 +230,27 @@ sujoy_dey:
 
 </td>
 </tr>
-
 </table>
 
-<br/>
-
 <!-- ════════════════════════════════════════════════════════════════════════════
-     DIVIDER — wave
+     PULSE DIVIDER
      ════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     ACTIVITY — 3D contributions + stats + activity graph
+     ACTIVITY — 3D contrib + metrics + streak + activity graph + SNAKE
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` activity in the matrix
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=%24+tail+-f+~%2F.contributions.log)](https://github.com/Sujoydey29)
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
@@ -240,14 +259,12 @@ sujoy_dey:
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/Sujoydey29">
-  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.svg" width="48%" alt="GitHub metrics" />
-</a>
-<a href="https://github.com/Sujoydey29">
-  <img src="https://streak-stats.demolab.com?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6&stroke=A78BFA" width="48%" alt="Streak stats" />
-</a>
-
+  <a href="https://github.com/Sujoydey29">
+    <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.svg" width="48%" alt="GitHub metrics" />
+  </a>
+  <a href="https://github.com/Sujoydey29">
+    <img src="https://streak-stats.demolab.com?user=Sujoydey29&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6&stroke=A78BFA" width="48%" alt="Streak stats" />
+  </a>
 </div>
 
 <br/>
@@ -264,24 +281,26 @@ sujoy_dey:
 
 <br/>
 
+#### `~/snake-eating-my-commits` 🐍
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sujoydey29/Sujoydey29/main/metrics/metrics.achievements.svg" width="100%" alt="GitHub achievements" />
 </div>
 
-<br/>
-
 <!-- ════════════════════════════════════════════════════════════════════════════
-     DIVIDER — pulse line
+     STAR DIVIDER
      ════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     BEHIND THE KEYBOARD — collapsible details
+     BEHIND THE KEYBOARD — collapsibles + animated quote
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` behind the keyboard
@@ -336,28 +355,42 @@ sujoy_dey:
 
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
 <!-- ════════════════════════════════════════════════════════════════════════════
-     CONNECT — large pill buttons
+     NEON DIVIDER
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     CONNECT — large pill buttons with hover-via-link
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## `╭─` connect
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=open+to+chat+about+AI%2C+agents%2C+or+chai)](https://github.com/Sujoydey29)
+
+<br/>
+
 <a href="https://www.linkedin.com/in/thesujoydey/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="48" />
 </a>
 &nbsp;
 <a href="https://sujoy-main-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" height="42" />
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" height="48" />
 </a>
 &nbsp;
 <a href="mailto:sujoy.dey@72street.ai">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="42" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="48" />
 </a>
 &nbsp;
 <a href="https://github.com/Sujoydey29">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="42" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="48" />
 </a>
 
 </div>
@@ -365,17 +398,13 @@ sujoy_dey:
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     FOOTER WAVE
+     FOOTER — multiple animated waves + closing quote
      ════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
 
-<i>"if you can't explain it simply,<br/>build an agent that does."</i>
-
-<br/>
-
-`$ echo "thanks for stopping by ⌐■_■" >> ~/visitors.log`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=600&pause=1500&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=%22if+you+can%27t+explain+it+simply%2C+build+an+agent+that+does.%22;%24+echo+%22thanks+for+stopping+by+%E2%8C%90%E2%96%A0_%E2%96%A0%22+%3E%3E+~%2Fvisitors.log)](https://github.com/Sujoydey29)
 
 </div>
